@@ -20,5 +20,5 @@ The steps taken are described:
 
 ### Execution
 ```console
-> python pool_shot_predictor.py
+python pool_shot_predictor.py
 ````
