@@ -22,3 +22,6 @@ The steps taken are described:
 ```console
 python pool_shot_predictor.py
 ````
+
+## RESULT (link to youtube video)
+[![Watch the video](https://img.youtube.com/vi/u_jMAmtowqM/hqdefault.jpg)](https://youtu.be/u_jMAmtowqM)
